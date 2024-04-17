@@ -13,5 +13,6 @@ This script automates the process of checking updates on the Alameda County Traf
 4. Set Up Task Scheduler/Automator
 
 ## Note
-- It will sents out a windows notification when there are new updates on the website
-- Adusts inputs in inputs.txt 
+- It will sent a Windows notification when there are new updates on the website
+- Change the notification code if using Automator
+- Adjusts inputs in inputs.txt 
